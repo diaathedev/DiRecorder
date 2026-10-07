@@ -6,3 +6,8 @@ best lightweight screen recorder for windows easy to use
 
 https://github.com/user-attachments/assets/fc4618d6-fe9a-43a6-a464-9e6289db1e3b
 
+you can just install the exe file to use it or 
+
+you run it by:
+pip install -i requirements.txt
+python main.py
