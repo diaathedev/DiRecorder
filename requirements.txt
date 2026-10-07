@@ -1,0 +1,9 @@
+opencv-python
+numpy
+mss
+pyautogui
+soundcard>=0.4.4
+soundfile
+moviepy
+pillow
+pywin32; sys_platform == "win32"
